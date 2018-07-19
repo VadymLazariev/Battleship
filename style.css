@@ -1,0 +1,31 @@
+.form-container{
+  position: absolute;
+  margin-left: 320px;
+  width: 10%;
+
+}
+
+.label-container{
+  margin-bottom: 50px;
+}
+
+.gridContainer{
+  float: left;
+}
+
+main{
+  display: flex;
+  float: left;
+}
+button{
+  margin-bottom:20px;
+  width: 100px
+}
+
+.cell-occupied {
+  background-color: bisque;
+}
+
+.cell-ship {
+  background-color: black;
+}
